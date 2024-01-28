@@ -1,1 +1,1 @@
-# Practical_PLSQL_Queries
+# Practical_PLSQL
